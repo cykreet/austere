@@ -451,6 +451,11 @@ hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
 
 [[files]]
+file = "mods/autotag.pw.toml"
+hash = "4e37e489f2b31f26e0c07866b6248e75b27a7396aada3f3f7c18c488fdc1bc74"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "0708223179ebe2bad131cfc063dde7cf65ec355c18a3c1392646142e46ea95f3"
 metafile = true
@@ -651,6 +656,11 @@ hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "7a0de01bdc13a2e917036bcfa2d91ee16480cab8dd25c41a8c46465f5659f80c"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
@@ -673,6 +683,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.pw.toml"
+hash = "80c61628b169079d182f28a3413cc87fef94a392add7afed89547844b546ba9e"
 metafile = true
 
 [[files]]
@@ -701,6 +716,11 @@ hash = "0cb1859becba06e139f96d2f99d6a6840d4bf20818753ec6b28f495f1716a4b3"
 metafile = true
 
 [[files]]
+file = "mods/jump-over-fences-forge.pw.toml"
+hash = "7e63262cb6bfa9757a0787c61fc515bc9f1dc5f63a53b9f6f16969ef7fa870b0"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "f2116bab9a54a2f4d95fd7bced75572d95de31cec9b630c6cdfca5cf9d7ff96a"
 metafile = true
@@ -723,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-tooltips-fabric.pw.toml"
 hash = "70d7f9b16fffbf8999a373d3b008e6b0b7b782b9de14575826a0b2c86797636b"
+metafile = true
+
+[[files]]
+file = "mods/libz.pw.toml"
+hash = "167349ced87b2aeb37ff05a77572769d5825b2e7ed86aeff15e247f206f41c42"
 metafile = true
 
 [[files]]
@@ -768,6 +793,11 @@ metafile = true
 [[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "eecda5df2a473843f1ca79945b466f4e72ab4ee1cff9f00dba9df6b7bc127994"
+metafile = true
+
+[[files]]
+file = "mods/pick-your-poison.pw.toml"
+hash = "7d521085ff1a7c50a66ff9b8a1e14639440746fb08c829b83bdc1fac0986ef22"
 metafile = true
 
 [[files]]
@@ -838,6 +868,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
+metafile = true
+
+[[files]]
+file = "mods/tieredz.pw.toml"
+hash = "ab5d977c99de6ce1808220c8bbf23de1a31dee72dd6be411c5ea8dec1ec30c50"
 metafile = true
 
 [[files]]
