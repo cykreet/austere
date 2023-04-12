@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "73b636d0a536bae5edb7b4784143b260cd7f40884e31409ce8e25641756b5c41"
+
+[[files]]
 file = "config/NoChatReports/NCR-Client.json"
 hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
 
@@ -602,6 +606,11 @@ hash = "4eb6b3a5242af63efc9ce72f08ab3c3b89e733d152d67f4a1daaab26610efb9e"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "55a8b11931f7d3c8e7cfc6cab29aee2b6ba49a36f999c1a2cc6cd1f2506ae213"
+metafile = true
+
+[[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "be005a7648907f2e32727e25a5cadceebd37835d04de2dbee763618c5c02bb37"
 metafile = true
@@ -804,6 +813,11 @@ metafile = true
 [[files]]
 file = "mods/rotten-creatures.pw.toml"
 hash = "9ab9a2d0adb8853355c114a1c1475571fb521c5ede781029589d4363e22e74fe"
+metafile = true
+
+[[files]]
+file = "mods/satin-api.pw.toml"
+hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
 
 [[files]]
