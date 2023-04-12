@@ -827,11 +827,6 @@ hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "1416161702c00780b4253fcc81cf50799a54c2de08b1b3563a1f3d748a543607"
-metafile = true
-
-[[files]]
 file = "mods/tips.pw.toml"
 hash = "0e82de825f8fd7cd81eec13a5a3c7d45853fbd19ba5cdcb29c5f496c71324fc4"
 metafile = true
