@@ -1,0 +1,83 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				sheep = true
+				horse = true
+				chicken = true
+				pig = true
+				cow = true
+				chest_minecart = true
+				creeper = true
+				squid = true
+				glow_squid = true
+				enderman = true
+				spider = true
+				bat = true
+				zombie = true
+				drowned = true
+				skeleton = true
+				bee = true
+				item = true
+				cave_spider = true
+				salmon = true
+				zombie_villager = true
+				villager = true
+				iron_golem = true
+				skeleton_horse = true
+				lightning_bolt = true
+				cat = true
+				arrow = true
+				wolf = true
+				rabbit = true
+				polar_bear = true
+				witch = true
+				goat = true
+				fox = true
+
+			[light_sources.settings.entities.rottencreatures]
+				undead_miner = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				dripstone_creeper = true
+				cave_creeper = true
+				snowy_creeper = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				end_fish = true
+				silk_moth = true
+				shadow_walker = true
+
+			[light_sources.settings.entities.wondrouswilds]
+				firefly = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.promenade]
+				lush_creeper = true
+				duck = true
+
