@@ -556,6 +556,11 @@ hash = "54fa3d88cf3630e694502184e1e2ed0be042dc9517593eb15d09dc7f174df1c8"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "26dcd1c29f902928f67cbae7e8de2cc7b301469547a023df352c7115a51bd99c"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "99f471325f79754905177fb82b696e66302bd9a5b9ac3419278d482e8929d7ce"
 metafile = true
@@ -632,7 +637,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "8d1e45cdea6bb16c53496bc3b4d3504c933075c73084d294f8a57387f71e6d8b"
+hash = "7873ca5fa00f1d5bcc11ba839aed4866e660017f8caee9337c7dffc8682d5653"
 metafile = true
 
 [[files]]
@@ -831,6 +836,11 @@ hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "c1318b2e17bc72fe0a1a9d1dcc778f2e34ab27e9093c77d78f4314d0edcec5ec"
 metafile = true
@@ -871,6 +881,11 @@ hash = "7b110f0f87bb5f21381cc9c2338be6689219a36ef13cb34c22e745df4e6afbff"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "80b9078ef39c133105251c0c1c710cb2f8c165e1039faf72cf6bdc41f259576c"
+metafile = true
+
+[[files]]
 file = "mods/tieredz.pw.toml"
 hash = "ab5d977c99de6ce1808220c8bbf23de1a31dee72dd6be411c5ea8dec1ec30c50"
 metafile = true
@@ -878,6 +893,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "0e82de825f8fd7cd81eec13a5a3c7d45853fbd19ba5cdcb29c5f496c71324fc4"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
