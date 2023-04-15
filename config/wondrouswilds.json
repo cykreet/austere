@@ -1,6 +1,6 @@
 {
   "clientSettings": {
-    "showShadersWarning": true
+    "showShadersWarning": false
   },
   "mobSettings": {
     "firefliesSpawnNaturally": true,
