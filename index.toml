@@ -456,6 +456,11 @@ hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "c03a4530cf7645c69c164d1c6808e3d576b6d807a41569ff0c3619e9458da5c4"
+metafile = true
+
+[[files]]
 file = "mods/autotag.pw.toml"
 hash = "4e37e489f2b31f26e0c07866b6248e75b27a7396aada3f3f7c18c488fdc1bc74"
 metafile = true
@@ -628,6 +633,11 @@ metafile = true
 [[files]]
 file = "mods/emotecraft.pw.toml"
 hash = "be005a7648907f2e32727e25a5cadceebd37835d04de2dbee763618c5c02bb37"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "df887ef39e3a78cf9a23adb5667978e7bb0ae2d3f7db68b670489180a8e2bc05"
 metafile = true
 
 [[files]]
@@ -923,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "ddb32bebc93de51dea1349e9ddd32d9d51dca6b3dffdf69a7e1466e295e2f498"
+metafile = true
+
+[[files]]
+file = "mods/youre-in-grave-danger.pw.toml"
+hash = "7ea2524e033e5c0e36fe61e2643eddbbda8439eaebf7c3ddd2df1714ab2fe517"
 metafile = true
 
 [[files]]
