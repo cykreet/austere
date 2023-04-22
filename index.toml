@@ -234,7 +234,7 @@ hash = "f77b4eb1cdb22691335d53c458cdf502e7a336ecb87400be6f998b4357f3b3f9"
 
 [[files]]
 file = "config/emotecraft.json"
-hash = "06c7f2b1b3288430e0e99a66429230bc185c22d6eb257cd068e51ede752fb8a1"
+hash = "7186ffc490e48977dc4a8d5c300f933f96aac32309ae4ccc5d082fbd59c1f2f0"
 
 [[files]]
 file = "config/emotecraft_emote_map.json"
@@ -257,10 +257,6 @@ file = "config/ferritecore.mixin.properties"
 hash = "647c97bf8ba08a082324b85ed87ae43356109953b4140fe57847cf7b97448ecd"
 
 [[files]]
-file = "config/firstperson.json"
-hash = "5bc4913e526bade1e3e7066b3e9c19d2880dc863de0d997e5430f8c8ab11be58"
-
-[[files]]
 file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
@@ -278,7 +274,7 @@ hash = "04f947ec01164248bd86147d8cca00487a0fff8f4d0124caec42c1a210dead43"
 
 [[files]]
 file = "config/iris.properties"
-hash = "71ce7a58a477c5802bd8a4b75ac979a3961029a8f72ed0a728a139b053105f92"
+hash = "168fde6bcfb749a499cc86e3cdff822fc5b85f25dcdb4424a61cb8d428cb1d13"
 
 [[files]]
 file = "config/itemmodelfix.json"
@@ -422,7 +418,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/wondrouswilds.json"
-hash = "49024a1ffbb3241f802ae6a1b46f54e6e2032d59cb0f5a90dcd32e184c963bea"
+hash = "53978a7414b436a623e253c0a76440489ec2b03d413edded99f7dc2927e7a497"
 
 [[files]]
 file = "config/xaerominimap.txt"
@@ -578,6 +574,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+metafile = true
+
+[[files]]
+file = "mods/creatures-from-the-snow-fabric.pw.toml"
+hash = "1bea7553ef8f8c87bc74790e8c26261dd5c72ee2662a657e3de4c281e58aa886"
 metafile = true
 
 [[files]]
@@ -876,6 +877,11 @@ hash = "eff50f07b22acfa4efd014e86df1cbe29af11f3cd9bd436c6f078c070467aef5"
 metafile = true
 
 [[files]]
+file = "mods/simplehats.pw.toml"
+hash = "7b5dea35456bde440cb054c87e52107f6676f2dfe7139413c57e3bd57ceab8e4"
+metafile = true
+
+[[files]]
 file = "mods/smooth-boot.pw.toml"
 hash = "eb68f07474889d53f9b81902ad7aca2979604aa6d5102327574b687b1e1c1424"
 metafile = true
@@ -908,6 +914,11 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "0e82de825f8fd7cd81eec13a5a3c7d45853fbd19ba5cdcb29c5f496c71324fc4"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
