@@ -1,0 +1,11 @@
+name: Update Mod List
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-mod-list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
