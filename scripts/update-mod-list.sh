@@ -1,8 +1,7 @@
 #!/bin/bash
 
-export TITLE='Austere'
-export DESCRIPTION='Fabric modpack with a little spice. Currently enjoying the following mods:'
-export CURSEFORGE_SECRET=
+TITLE="${README_TITLE:-Austere}"
+DESCRIPTION="${README_DESCRIPTION:-Fabric modpack with a little spice. Currently enjoying the following mods:}"
 
 mods_path="$(pwd)/mods"
 
