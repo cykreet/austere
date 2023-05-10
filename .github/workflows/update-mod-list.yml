@@ -1,11 +1,22 @@
 name: Update Mod List
 on:
   push:
-    branches:
-      - main
+    paths:
+      - "mods/**"
 
 jobs:
   update-mod-list:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+      - name: Run update script
+        run: |
+          bash ./scripts/update-mod-list.sh
+        shell: bash
+      - name: Commit and push changes
+        run: |
+          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git config --global user.name "${GITHUB_ACTOR}"
+          git add .
+          git commit -m 'chore: update mod list'
+          git push
