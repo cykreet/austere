@@ -12,7 +12,7 @@ fi
 
 > $(pwd)/README.md
 >> $(pwd)/README.md echo "# ${TITLE}"
->> $(pwd)/README.md echo "${DESCRIPTION}\n"
+>> $(pwd)/README.md echo -e "${DESCRIPTION}\n"
 for file in "$mods_path"/*.pw.toml; do
   if [[ -f "${file}" ]]; then
     # mod-id is used for mods from modrinth
@@ -27,7 +27,7 @@ for file in "$mods_path"/*.pw.toml; do
       project_author_json=$(curl https://api.modrinth.com/v2/project/${id}/members -H "Content-Type: application/json" -H "Accept: application/json")
       author=$(echo $project_author_json | jq -r '.[0].user.username')
       hyperlink="https://modrinth.com/mod/${slug}"
-      echo -e "- [${name}](${hyperlink}) -- ${author}\\n\n${description}\n" >> $(pwd)/README.md
+      echo -e "- [${name}](${hyperlink}) — ${author}\\n\n${description}\n" >> $(pwd)/README.md
     # project-id is used for mods from curseforge
     elif grep -q "project-id" "${file}"; then
       id=$(grep -oP 'project-id\s*=\s*\K\d+' ${file})
@@ -37,7 +37,7 @@ for file in "$mods_path"/*.pw.toml; do
       slug=$(echo $project_json | jq -r '.data.slug')
       author=$(echo $project_json | jq -r '.data.authors[0].name')
       hyperlink="https://www.curseforge.com/minecraft/mc-mods/${slug}"
-      echo -e "- [${name}](${hyperlink}) -- ${author}\\n\n${description}\n" >> $(pwd)/README.md
+      echo -e "- [${name}](${hyperlink}) — ${author}\\n\n${description}\n" >> $(pwd)/README.md
     else
       echo "Neither mod-id nor project-id found in ${file}"
       continue
