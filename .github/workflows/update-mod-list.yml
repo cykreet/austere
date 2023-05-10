@@ -1,5 +1,6 @@
 name: Update Mod List
 on:
+  workflow_dispatch:
   push:
     paths:
       - "mods/**"
