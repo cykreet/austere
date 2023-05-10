@@ -448,7 +448,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "c4d4eefeb556beb1d33a2fb479e4912ef2a58fe1fed76704a9aa7493618091a9"
+hash = "e2247eec92525ab53c6321cba8074de0e94bf49c113c1f31a779fceab132a6b4"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-combat.pw.toml"
-hash = "878848f04fee74c36e3fe0d53e0d506d9f50966036edeb4fdd7268951cb73fc8"
+hash = "cc063f9a7a12cb2dd7893f8750af24552313db31592e4c52672cdb1595f168c1"
 metafile = true
 
 [[files]]
@@ -528,12 +528,12 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "17d061c4b8588f7dbb92db31c8e13507df6a0dbc843afcfa57c79d157dab914c"
+hash = "15b9fa68ee45edacd66efbc5b5365a566610f32af3c88248a12bb740cbd9c87b"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "55cd7f4099afe3a7893d5d3df6b04edf88dde0fe41ef339657ff8d9513b302e7"
+hash = "18a704a543a3bc007ecb527543bff6bd203840ee5c64f85555e7b9092d4a268a"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "70ce754e40398d862eafd167cce1dffe619add7b9abf9600d8f172612d5b3d2a"
+hash = "cc60139375f03edeb630730779f17d06a5d3ac99daae8f41415fa8adf903b960"
 metafile = true
 
 [[files]]
@@ -653,7 +653,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b55384fb50702c52950f15a6c7a6f149cd8b9379263c8c35c944578ac0f85e44"
+hash = "a1793fb3d541ce4e7a6d606b180287ffe0e08d660a2e03db33bcb06815e25668"
 metafile = true
 
 [[files]]
@@ -838,7 +838,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
+hash = "269545a61478d0c92f3beecb5c41e3d0580b8a2efe204412d8f4e4734337fada"
 metafile = true
 
 [[files]]
@@ -903,7 +903,7 @@ metafile = true
 
 [[files]]
 file = "mods/tieredz.pw.toml"
-hash = "ab5d977c99de6ce1808220c8bbf23de1a31dee72dd6be411c5ea8dec1ec30c50"
+hash = "8c74dd55758153587a819dc3d19da0f8d91771c73b76cf74bdb86c548cf4c53b"
 metafile = true
 
 [[files]]
@@ -933,17 +933,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "4e7b7ee4952f4caffd8314510b050ac8c7e542fe8371e450ee7d96789b99c2c0"
+hash = "a5be740c4be988bd34c64fe88d84df011cfb894e438743e0249fff47e7457ca6"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ddb32bebc93de51dea1349e9ddd32d9d51dca6b3dffdf69a7e1466e295e2f498"
+hash = "b52f134a96b80a850c9094a009ceecb418527901327f9c3cf0923c7c3bce1d5f"
 metafile = true
 
 [[files]]
 file = "mods/youre-in-grave-danger.pw.toml"
-hash = "7ea2524e033e5c0e36fe61e2643eddbbda8439eaebf7c3ddd2df1714ab2fe517"
+hash = "35f6a3eb633386dfefe0cbc0ec02bb7095badd666413f5a6eb5f85f352f7975d"
 metafile = true
 
 [[files]]
