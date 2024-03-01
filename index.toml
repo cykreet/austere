@@ -530,8 +530,8 @@ hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
-file = "mods/iceberg.pw.toml"
-hash = "a20c1686761db7bb15ef63572ede9d721bc436585515220d49e426552977d690"
+file = "mods/iceberg-fabric.pw.toml"
+hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
 
 [[files]]
