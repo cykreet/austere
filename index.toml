@@ -375,6 +375,16 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "dad6de832b60078367a447af1c9197f09fbc6391feaff5c78de8c6bada335c2f"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "2f6093d5d0bca4253ca66a4f4909bac6fa36e2e6a9c0a54fb5c56d7707b6283f"
 metafile = true
@@ -410,6 +420,11 @@ hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
 
 [[files]]
+file = "mods/dawn.pw.toml"
+hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
 metafile = true
@@ -435,6 +450,11 @@ hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -452,6 +472,21 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "2776f4939eaec939c86063aa7111a6d0382061b4d3a2c60a6b26fe3ac6695a78"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7a6c27fcdf9d6e4c25ad433a676357353b8d6125433e7a883de4ddb889767f88"
+metafile = true
+
+[[files]]
+file = "mods/promenade.pw.toml"
+hash = "4edb1d260abf93b2e69b319a44f2cbf26785850669dc28424bd678207c72f764"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
 metafile = true
 
 [[files]]
