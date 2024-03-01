@@ -1,10 +1,6 @@
 # Austere
 Fabric modpack with a little spice. Currently enjoying the following mods:
 
-- [Advancement Plaques](https://modrinth.com/mod/advancement-plaques) — Grend
-
-Replace those boring advancement popups with something flashier.
-
 - [AppleSkin](https://modrinth.com/mod/appleskin) — squeek502
 
 Food/hunger-related HUD improvements
@@ -37,17 +33,9 @@ Adds a configurable numerical ping display to the player list
 
 See your held items when in a moving boat!
 
-- [Bobby](https://modrinth.com/mod/bobby) — Johni0702
-
-Allows for render distances greater than the server's view-distance
-
 - [Bookshelf](https://modrinth.com/mod/bookshelf-lib) — Darkhax
 
 An open source library for other mods!
-
-- [Capes](https://modrinth.com/mod/capes) — caelthecolher
-
-Lets you use capes from OptiFine, LabyMod and other cape mods
 
 - [Chat Heads](https://modrinth.com/mod/chat-heads) — Fourmisain
 
@@ -73,14 +61,6 @@ A Fabric mod that allows for efficient connected textures
 
 Allows you to crawl
 
-- [Cull Leaves](https://modrinth.com/mod/cull-leaves) — Motschen
-
-Adds culling to leaf blocks, providing a huge performance boost over vanilla.
-
-- [DashLoader](https://modrinth.com/mod/dashloader) — alphaqu
-
-Launch at the speed of light.
-
 - [Dawn API](https://modrinth.com/mod/dawn) — Hugman
 
 API that facilitates the creation of features.
@@ -105,9 +85,9 @@ Reduce resource usage while Minecraft is in the background or idle.
 
 A mod that adds sprite animations for edible and drinkable items.
 
-- [Emotecraft (Fabric)](https://www.curseforge.com/minecraft/mc-mods/emotecraft) — KosmX
+- [Emotecraft](https://modrinth.com/mod/emotecraft) — KosmX
 
-Emotes in minecraft
+Create your own emotes in Minecraft.
 
 - [Entity Culling](https://modrinth.com/mod/entityculling) — tr7zw
 
@@ -117,17 +97,9 @@ Using async path-tracing to hide Block-/Entities that are not visible
 
 Makes it easier to compare equipment by showing a tooltip for what you're already wearing.
 
-- [Fabric API](https://modrinth.com/mod/fabric-api) — modmuss50
+- [Fabric API](https://modrinth.com/mod/fabric-api) — sfPlayer1
 
 Lightweight and modular API providing common hooks and intercompatibility measures utilized by mods using the Fabric toolchain.
-
-- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin) — sfPlayer1
-
-This is a mod that enables usage of the Kotlin programming language for Fabric mods.
-
-- [FerriteCore](https://modrinth.com/mod/ferrite-core) — malte0811
-
-Memory usage optimizations
 
 - [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) — Fuzs
 
@@ -172,10 +144,6 @@ A "small" clientside mod featuring item scrolling, inventory sorting, item refil
 - [No Chat Reports](https://modrinth.com/mod/no-chat-reports) — robotkoer
 
 Makes chat unreportable (where possible)
-
-- [Physics Mod](https://modrinth.com/mod/physicsmod) — haubna
-
-Welcome to a more destructive Minecraft than you've ever seen before!
 
 - [Plasmo Voice](https://modrinth.com/mod/plasmo-voice) — apehum
 
@@ -229,10 +197,6 @@ This mod adds tips to loading menus. It also allows for modpacks and mods to add
 
 Little visual improvements by adding a bunch of new particles.
 
-- [Wavey Capes](https://modrinth.com/mod/wavey-capes) — Cardistymo
-
-The cape shouldn't be a static slab
-
 - [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) — thexaero
 
 Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.
@@ -244,10 +208,6 @@ Adds a full screen world map which shows you what you have explored in the world
 - [YUNG's API](https://modrinth.com/mod/yungs-api) — YUNGNICKYOUNG
 
 Library mod for YUNG's mods.
-
-- [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons) — Acarii
-
-A complete redesign of Minecraft's dungeons!
 
 - [YUNG's Better End Island](https://modrinth.com/mod/yungs-better-end-island) — YUNGNICKYOUNG
 
