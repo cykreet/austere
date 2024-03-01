@@ -380,8 +380,18 @@ hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "28e9e1ae5ced7de0e0338f9d5ebc6a0fc4f717ab45721e68f11a22d0b4c3ae63"
 metafile = true
 
 [[files]]
