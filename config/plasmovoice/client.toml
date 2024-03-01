@@ -1,6 +1,6 @@
 debug = false
 disable_crowdin = false
-check_for_updates = false
+check_for_updates = true
 
 key_bindings = []
 
@@ -12,6 +12,7 @@ microphone_disabled = false
 activation_threshold = -30.0
 input_device = ""
 output_device = ""
+disable_input_device = false
 use_javax_input = false
 microphone_volume = 1.0
 noise_suppression = false

@@ -3,6 +3,9 @@
 [client]
 
 	[client.visual_options]
+		# The maximum number of comparison tooltips to show onscreen at once.
+		#Range: 1 ~ 10
+		max_comparisons = 3
 		# If badge_text should override the built-in translatable text.
 		override_badge_text = false
 		# The text shown on the badge above equipped tooltips.
@@ -22,9 +25,9 @@
 
 	[client.control_options]
 		# If the comparison tooltip should show by default (pressing bound key hides).
-		default_on = true
+		default_on = false
 		# If tool comparisons should compare only the same types of tools (can't compare a sword to an axe, for example).
 		strict = false
-		# Blacklist of items to show comparisons for.  Add item IDs to prevent them from being compared when hovered over or equipped.
+		# Item blacklist to disable comparisons for.  Add to prevent items from being compared when hovered over or equipped.  All Iceberg item selectors are supported (https://github.com/AHilyard/Iceberg/wiki/Item-Selectors-Documentation).
 		blacklist = []
 

@@ -41,7 +41,7 @@
     "value": 0,
     "defaultValue": 0,
     "minValue": 0,
-    "maxValue": 3
+    "maxValue": 0
   },
   "durabilityviewer.config.armorhotbar": {
     "key": "durabilityviewer.config.armorhotbar",
@@ -75,7 +75,7 @@
     "value": 1,
     "defaultValue": 1,
     "minValue": 0,
-    "maxValue": 3
+    "maxValue": 0
   },
   "durabilityviewer.config.showfreeslots": {
     "key": "durabilityviewer.config.showfreeslots",
