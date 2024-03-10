@@ -485,11 +485,6 @@ hash = "81293a0aad64a6000ba0b25642341074d7bb369c2f8b5f1dd842fcf7eb4088ec"
 metafile = true
 
 [[files]]
-file = "mods/enchancement.pw.toml"
-hash = "1d8b5b7ea58a2f614ceb1aa05ed88972b97dcd65a73f7f912417ebc1783fa146"
-metafile = true
-
-[[files]]
 file = "mods/endrem.pw.toml"
 hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
