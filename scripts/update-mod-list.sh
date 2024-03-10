@@ -25,7 +25,7 @@ for file in "$mods_path"/*.pw.toml; do
       id=$(grep -oP 'mod-id\s*=\s*"\K[^"]+' ${file})
       project_json=$(curl https://api.modrinth.com/v2/project/${id} -H "Content-Type: application/json" -H "Accept: application/json")
       name=$(echo $project_json | jq -r '.title')
-      description=$(echo $project_json | jq -r '.description')
+      description=$(echo $project_json | jq -r '.description' | sed 's/\r//g' | sed ':a; N; $!ba; s/\n/\<br\>/g')
       slug=$(echo $project_json | jq -r '.slug')
 
       project_author_json=$(curl https://api.modrinth.com/v2/project/${id}/members -H "Content-Type: application/json" -H "Accept: application/json")
@@ -43,7 +43,7 @@ for file in "$mods_path"/*.pw.toml; do
       id=$(grep -oP 'project-id\s*=\s*\K\d+' ${file})
       project_json=$(curl https://api.curseforge.com/v1/mods/${id} -H "Content-Type: application/json" -H "Accept: application/json" -H "X-Api-Key: ${CURSEFORGE_SECRET}")
       name=$(echo $project_json | jq -r '.data.name')
-      description=$(echo $project_json | jq -r '.data.summary')
+      description=$(echo $project_json | jq -r '.data.summary' | sed 's/\r//g' | sed ':a; N; $!ba; s/\n/\<br\>/g')
       slug=$(echo $project_json | jq -r '.data.slug')
       author=$(echo $project_json | jq -r '.data.authors[0].name')
       hyperlink="https://www.curseforge.com/minecraft/mc-mods/${slug}"
