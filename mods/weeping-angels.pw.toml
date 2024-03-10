@@ -1,0 +1,13 @@
+name = "Doctor Who - Weeping Angels"
+filename = "Weeping-Angels-46.0.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TEzJJY7H/versions/WGgwyPQ7/Weeping-Angels-46.0.1-fabric.jar"
+hash-format = "sha1"
+hash = "23854a89b49c06b19978b9fa219c95bff8699ec7"
+
+[update]
+[update.modrinth]
+mod-id = "TEzJJY7H"
+version = "WGgwyPQ7"
