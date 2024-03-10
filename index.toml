@@ -420,6 +420,11 @@ hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c89890805932a461e5f81fb55c76000636ec0fba6bdd374c3c26fae16b28d4a0"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "329238bddf5bf11b5117b2227534d363e857d51cb1c7e05ca8254fa552e0dd33"
 metafile = true
@@ -447,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "fe79cc78adf75a5aa3f32b2ac61a141ee7a4db1baebf628bee058a9c4381b255"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "63577d4abd5be5c2b061bd3d5f6bdf0878b7ab0e8e2e0b7f98bdeb50e009134f"
 metafile = true
 
 [[files]]
@@ -702,11 +712,6 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
-metafile = true
-
-[[files]]
-file = "mods/weeping-angels.pw.toml"
-hash = "b1215085800dccf01d4ff69ca92d0716fece2059383e125f9724db5f91ea2475"
 metafile = true
 
 [[files]]
