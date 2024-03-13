@@ -385,6 +385,11 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
+metafile = true
+
+[[files]]
 file = "mods/better-animations-collection.pw.toml"
 hash = "87388bfb6188340b29d7d941dae6d0ced7bc4e9b9a8c87ac3f574aee417a3e85"
 metafile = true
@@ -447,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/dawn.pw.toml"
 hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
 
 [[files]]
@@ -620,6 +630,11 @@ hash = "064454db226e1b03e85dbf6339c4ffb39feab698da2024205b794260430b5710"
 metafile = true
 
 [[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "50f094d2065efa8d1d751b89a3a7147d7835a028ad193e9836ab0e9d3ff83655"
+metafile = true
+
+[[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "ba530a2e04476bef87448769a8d3609a9225065dfaed24a54c401c3035a79ed3"
 metafile = true
@@ -642,6 +657,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "234817faae966a2587dcc1c11e599ac9ab3a2ae16073f4a399048d6dd2242cba"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-sculk.pw.toml"
+hash = "5e6b572e61b65e964baebd2c234ce439241b30517cf8765df4c6204cc1125077"
+metafile = true
+
+[[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "699022f3c6f29cdc0aa6c629f46b087f1b2a65766cf14f1889c8f61c4c83cc9a"
 metafile = true
 
 [[files]]
@@ -775,6 +800,11 @@ hash = "a01a278edf7c5bc7464d378d8b6633e1d55508961d6fb32da8e5ec14477d4d9d"
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
+hash = "7c211d77c8bcbaa5593a5d67f560211ef2817d890308821d4fa6f1053eb5c862"
 metafile = true
 
 [[files]]

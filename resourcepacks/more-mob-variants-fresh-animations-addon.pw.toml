@@ -1,0 +1,13 @@
+name = "More Mob Variants x Fresh Animations"
+filename = "MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a829d57818a398dcf70fba7ca265f9c701cee9fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4673000
+project-id = 896735
