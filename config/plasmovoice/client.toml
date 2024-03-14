@@ -5,10 +5,14 @@ check_for_updates = true
 key_bindings = []
 
 
+[addons.pv-addon-soundphysics]
+"gui.plasmovoice.soundphysics.mic_reverb_volume" = 1.0
+"gui.plasmovoice.soundphysics.enabled" = true
+"gui.plasmovoice.soundphysics.mic_reverb" = true
 
 [voice]
 disabled = false
-microphone_disabled = false
+microphone_disabled = true
 activation_threshold = -30.0
 input_device = ""
 output_device = ""

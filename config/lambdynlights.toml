@@ -1,0 +1,103 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				skeleton = true
+				sheep = true
+				vindicator = true
+				creeper = true
+				enderman = true
+				pig = true
+				zombie = true
+				spider = true
+				drowned = true
+				glow_squid = true
+				item = true
+				experience_orb = true
+				squid = true
+				tropical_fish = true
+				goat = true
+				bat = true
+				axolotl = true
+				bee = true
+				tnt_minecart = true
+				witch = true
+				slime = true
+				chicken = true
+				chest_minecart = true
+				zombie_villager = true
+				boat = true
+				cow = true
+				wandering_trader = true
+				trader_llama = true
+				llama_spit = true
+				salmon = true
+				strider = true
+				piglin = true
+				piglin_brute = true
+				ghast = true
+				zombified_piglin = true
+				hoglin = true
+				dolphin = true
+				turtle = true
+				potion = true
+				rabbit = true
+				cod = true
+				arrow = true
+				lightning_bolt = true
+				fireball = true
+				magma_cube = true
+				spectral_arrow = true
+				eye_of_ender = true
+				cave_spider = true
+				armor_stand = true
+				fox = true
+				phantom = true
+				stray = true
+				villager = true
+				horse = true
+				leash_knot = true
+				skeleton_horse = true
+				pillager = true
+				painting = true
+				wolf = true
+
+			[light_sources.settings.entities.promenade]
+				duck = true
+				lush_creeper = true
+				capybara = true
+
+			[light_sources.settings.entities.duckling]
+				duck = true
+				duck_egg = true
+
+			[light_sources.settings.entities.weeping_angels]
+				weeping_angel = true
+
+			[light_sources.settings.entities.enchancement]
+				brimstone = true
+				amethyst_shard = true
+				ice_shard = true
+

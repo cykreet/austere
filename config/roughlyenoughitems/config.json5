@@ -1,6 +1,9 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{data:{Count:1b,id:\"minecraft:wheat_seeds\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:white_stained_glass_pane\",tag:{HideFlags:-1b,display:{Name:'{\"italic\":false,\"color\":\"white\",\"text\":\"\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
 		"hiddenFavorites": [],
 		"displayHistory": [],
 		// Declares whether cheating mode is on.
@@ -132,7 +135,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "UNSET",
+		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
 		"theme": "LIGHT",
 		"layout": {
