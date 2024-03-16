@@ -677,6 +677,11 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
+file = "mods/autowhitelist.pw.toml"
+hash = "bf839971d8ac6b8bb7061129d93e472dc11e652e836ab1b209c7f6d387d10069"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
@@ -772,11 +777,6 @@ hash = "e6cd8a58a2938b799035c66df16b440db0edf09c798978b8e857a6a27e8a6474"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "b3ce101677c5f2bdcac46f54def60033f3a2e0403394a19ba414d8e301093455"
-metafile = true
-
-[[files]]
 file = "mods/default-options.pw.toml"
 hash = "5c4f693a0fbc744b46f76e44746baff8621ebb81937c31c777b9edcea18d8ad6"
 metafile = true
@@ -849,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "e3272db811c06088fee691b5338e922681073fbc4f0e55a7d3865abb8b62eb0e"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d74850aaf1ed5a53805d523aa2b624f58c43813446be0b6c066a599c80d704e6"
 metafile = true
 
 [[files]]
