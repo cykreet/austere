@@ -937,11 +937,6 @@ hash = "fcc438b7ed6f280be9cc7191a4b41c2066cd692e8bb63b3e3890f4623a040d11"
 metafile = true
 
 [[files]]
-file = "mods/manic.pw.toml"
-hash = "9714cf6042d9b40be8a2588fefaad0b241552feff821ce9f8ae01e201cca71ac"
-metafile = true
-
-[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -964,6 +959,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
+metafile = true
+
+[[files]]
+file = "mods/nevermore.pw.toml"
+hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
 metafile = true
 
 [[files]]
@@ -1049,11 +1049,6 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
-metafile = true
-
-[[files]]
-file = "mods/sanguine.pw.toml"
-hash = "94e3bc7af966cba38a5495c712a660e821562a4684dda381910d64191f972b2b"
 metafile = true
 
 [[files]]
