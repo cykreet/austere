@@ -752,6 +752,11 @@ hash = "bb7b31de1f5c7941aff59030d59168a5971e8c47884bcd8905637836ff97ce46"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "58dd43cb8e458f89e121ca6372c7982a22557e10eb3f63fde0b5741ddd7767c2"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "d3e3831377b8282db35ffe8446d535f30e011367b3187b2c96b5f179a1a77c59"
 metafile = true
@@ -1044,6 +1049,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "798736c2992b4c47d0fe3bd146ff105a2a707d75e9dc0f87ca13e157ac1df32e"
 metafile = true
 
 [[files]]
