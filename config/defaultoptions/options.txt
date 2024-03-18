@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/FreshAnimations_v1.9.zip","file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/FreshAnimations_v1.9.zip","file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip","seasons:seasonal_lush_caves"]
 incompatibleResourcePacks:["file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip"]
 lastServer:
 lang:en_us
