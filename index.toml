@@ -962,11 +962,6 @@ hash = "0a42eb060173bf1994e480d160de17d8a61af01758fc1c6b70f9a42dba75d61b"
 metafile = true
 
 [[files]]
-file = "mods/nevermore.pw.toml"
-hash = "a4ac05ba3b0eff327fc4fff1a07a84516a995c7820d3a9e8854912157b2e9925"
-metafile = true
-
-[[files]]
 file = "mods/new-nether-chest.pw.toml"
 hash = "e17962f9e261f93949ae3a4e9d21c16e5853f0da8ca3d0340500cb602bc6695f"
 metafile = true
