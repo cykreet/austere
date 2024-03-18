@@ -677,11 +677,6 @@ hash = "60a99d744e2d72e272cef239ce12f6c446afb9a20cd71c11cc44aa0895f48526"
 metafile = true
 
 [[files]]
-file = "mods/autowhitelist.pw.toml"
-hash = "bf839971d8ac6b8bb7061129d93e472dc11e652e836ab1b209c7f6d387d10069"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "ab6a6dc2a3fa157464f0294d8b5d3e6b8b882c9b520c7f7e0ca8329094ed1dfa"
 metafile = true
