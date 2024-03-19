@@ -32,9 +32,9 @@ key_key.hotbar.6:key.keyboard.6:NONE
 key_key.hotbar.7:key.keyboard.7:NONE
 key_key.hotbar.8:key.keyboard.8:NONE
 key_key.hotbar.9:key.keyboard.9:NONE
-key_key.emotecraft.fastchoose:key.keyboard.b:NONE
+key_key.emotecraft.fastchoose:key.keyboard.x:NONE
 key_key.emotecraft.stop:key.keyboard.unknown:NONE
-key_keybinds.bettercombat.feint:key.mouse.5:NONE
+key_keybinds.bettercombat.feint:key.keyboard.unknown:NONE
 key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown:NONE
 key_key.carry.desc:key.keyboard.left.shift:NONE
 key_keybinds.combatroll.roll:key.keyboard.r:NONE

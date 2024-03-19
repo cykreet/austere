@@ -83,11 +83,13 @@ mode = "fancy"
 				pillager = true
 				painting = true
 				wolf = true
+				pufferfish = true
 
 			[light_sources.settings.entities.promenade]
 				duck = true
 				lush_creeper = true
 				capybara = true
+				sunken_skeleton = true
 
 			[light_sources.settings.entities.duckling]
 				duck = true
@@ -100,4 +102,11 @@ mode = "fancy"
 				brimstone = true
 				amethyst_shard = true
 				ice_shard = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				cave_enderman = true
+				coral_enderman = true
+
+			[light_sources.settings.entities.pickyourpoison]
+				poison_dart_frog = true
 
