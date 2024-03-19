@@ -8,8 +8,8 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Architectury API](https://modrinth.com/mod/architectury-api) | MaxNeedsSnacks | An intermediary api aimed to ease developing multiplatform mods. |
 | [AttributeFix](https://modrinth.com/mod/attributefix) | Darkhax | Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods! |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
-| [Bartering Station](https://modrinth.com/mod/bartering-station) | Fuzs | Still running around bartering manually? Let's put those lazy piglins to work instead! |
-| [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) | Fuzs | Changing the in-game models to allow for better animations and subtle effects. |
+| [Bartering Station](https://modrinth.com/mod/bartering-station) | LunaPixelStudios | Still running around bartering manually? Let's put those lazy piglins to work instead! |
+| [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) | LunaPixelStudios | Changing the in-game models to allow for better animations and subtle effects. |
 | [Better Combat](https://modrinth.com/mod/better-combat) | ZsoltMolnarrr | ⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons. |
 | [Better Third Person](https://modrinth.com/mod/better-third-person) | socolio | Improves third person camera view. |
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | Darkhax | An open source library for other mods! |
@@ -58,7 +58,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | astei | Makes the game boot faster by deferring non-essential initialization |
 | [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) | Grend | Give your rare items a fancier tooltip! Also adds additional tooltip configuration options. |
 | [Lithium](https://modrinth.com/mod/lithium) | 2No2Name | No-compromises game logic/server optimization mod |
-| [Lookin' sharp](https://modrinth.com/mod/lookin-sharp) | Joo5h | A combat mod which expands the vanilla melee weapon options! |
+| [Lookin' sharp](https://modrinth.com/mod/lookin-sharp) | CodexAdrian | A combat mod which expands the vanilla melee weapon options! |
 | [LuckPerms](https://modrinth.com/mod/luckperms) | lucko | A permissions plugin (mod) for Minecraft servers. |
 | [Luna Slimes](https://modrinth.com/mod/luna-slimes) | Lunade_ | Improves Slimes and makes them configurable. |
 | [MixinTrace](https://modrinth.com/mod/mixintrace) | comp500 | Adds a list of mixins in the stack trace to crash reports  |
@@ -85,6 +85,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | shedaniel | Clean and Customizable. Alternative to Just Enough Items/JEI. |
 | [Resourceful Config](https://modrinth.com/mod/resourceful-config) | epic_oreo | Resourceful Config is a mod that allows for developers to make cross-platform configs |
 | [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat | Resourceful Lib |
+| [Satin API](https://modrinth.com/mod/satin-api) | Pyrofab | A Fabric library to help modders with shader usage |
 | [Simple Discord Link](https://modrinth.com/mod/sdlink) | hypherionsa | A simple Minecraft -> Discord Chat Link bot with Whitelisting |
 | [Server Sleep](https://modrinth.com/mod/serversleep) | aninuscsalas | The simplest multiplayer sleep mod/datapack. - Changes playersSleepingPercentage to 50% |
 | [Snowy Sniffer](https://modrinth.com/mod/snow-sniffer) | SwiftSniffer | Ever wanted to see these revived giants blending in your cold settlement?<br><br>Now, Sniffer will be covered in snow during Snowstorm, and much more! |
