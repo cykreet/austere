@@ -125,6 +125,10 @@ file = "config/betterstrongholds/fabric-1_20/rareblocks.json"
 hash = "0262b3192a9d2c4d5c8aa693aa442563a193c901a374afc22fc9440867343753"
 
 [[files]]
+file = "config/betterthirdperson.json5"
+hash = "151cb9f1ab722aa7026701e482e77cb13eeef2ce7c77cfbac997f719a81b1dbb"
+
+[[files]]
 file = "config/boatiview/client.toml"
 hash = "5a2efd90464dcfe793380701139c18f71fc6c9afc6528c70be398fc0c37b4e8c"
 
@@ -151,6 +155,10 @@ hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
 [[files]]
 file = "config/chat_heads.json5"
 hash = "53f1eec25e4b4457fce81b1349f18ca44b2dcd3a47092a609b4a0db02362f008"
+
+[[files]]
+file = "config/chunky/config.json"
+hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/cleardespawn.toml"
@@ -222,7 +230,7 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "5136ef3da0528da5baf5220f7b51083545e678e77dbca2a77c5ab1adc256a13a"
+hash = "cbcc4a2de4e606474eaf238f5b8ae5fe451398dc1861f0d53cd5690722f40c5a"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
@@ -290,7 +298,7 @@ hash = "49f0088abdb22fe15b2a134e53005c9ea3944f2468a9e48d960fe5df25955df0"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "932683122804957c0f4d80d63d2c2fab15bb727fe8414cdd91bdf23b5cd774b4"
+hash = "94e3962fe32c9a0e861c831840343a89f860d878ae9d197cdaa7b634364bc3aa"
 
 [[files]]
 file = "config/farmersdelight.json"
@@ -314,15 +322,15 @@ hash = "645b87f55cf42c04dbab8f76dc7f3173a510ffdc712305fc62371ebac07fed1e"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "3432e03e8fc3625f711c1b905e1d13289c46161272df135f80a2786c9def59e7"
+hash = "cd77402b378f505e34a3d0e729fa914d845fd8804e3b9235301fcb990a0fe1d8"
 
 [[files]]
 file = "config/iris.properties"
-hash = "a9d34dece5c163620c4277a038583e38e51681ee1a48eade452a94cf48d502f4"
+hash = "c432818b4f0ae78ea39119081a21f212a52915ddd6f757b943a236e03ec916cb"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "026390a64f22f7a2fa6bea58a54973df1e4f50e9e487c070a9e69140f5fc1881"
+hash = "c3ceacfa3e1ebd1c66bbbd983ae989ec563ce49b2211473a9cb307cac6ae06b8"
 
 [[files]]
 file = "config/legendarytooltips-common.toml"
@@ -347,6 +355,10 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 [[files]]
 file = "config/modelfix-client.json"
 hash = "d7435276b71f9ed4a49da3c06ec54004ba8b1ed46f3c32ea3a000737507d3e7b"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "898795fc23f4e9c2a8d6640c543ad9421f7ba268346e2e710d6c4ba0af4b8570"
 
 [[files]]
 file = "config/modmenu.json"
@@ -438,7 +450,7 @@ hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
 
 [[files]]
 file = "config/plasmovoice/client.toml"
-hash = "e8d3799b92cee19e7032cc50d10701c1783fa01af5d8d0a8a214e5e5e521a4f9"
+hash = "7a491c2bc783c4eb133562395faa9a2387f4fffe309401eed12588de312e026b"
 
 [[files]]
 file = "config/plasmovoice/server/config.toml"
@@ -590,11 +602,11 @@ hash = "32fee50c1fcd82605248d20ece283f7ff5277de062574ad72d35146a02a89020"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin.properties"
-hash = "97795c3073b86c651fa6d879def178d5ba8bf328f4afce84874ec490030cef10"
+hash = "f337bf16b47a1040086040345cf6d68cdad6c5a18bde3f8890d7ace9b9e51ed2"
 
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "d43896f3f92a9f39fb4648e14db196c5e4e90e696bd15a0e3858084430cd9d83"
+hash = "6baab865903dbc7261d86e504154137ebe7909048d257e2cdf961ebdf975f24a"
 
 [[files]]
 file = "config/rrp.properties"
@@ -622,15 +634,15 @@ hash = "6edc2c42f650b3c8c5399708420d8ec4c7b76cd76d778f78e969f80e5383c73f"
 
 [[files]]
 file = "config/sound_physics_remastered/allowed_sounds.properties"
-hash = "6ad75279609b97e74fb5703e8d2252eaff2dfa6baa4a8cd726bb3a088ec9b779"
+hash = "36a46012ed080ad38b372285dc002117a8ac400694f7f6f603092d74b49b918d"
 
 [[files]]
 file = "config/sound_physics_remastered/occlusion.properties"
-hash = "0bdf6088e6e8790eb040bfb0b4b6d21f13256fa49acee2c144259e4aa8ae8fad"
+hash = "1d4f60d86882e640366ba933ffdc937fe6cda557445ac3985003cfa41872348e"
 
 [[files]]
 file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "0ff9b1647c0d6369c98498e6f15a559589b40e040a892ed69e47cf0986853a49"
+hash = "1ee0a18920806bcfb8d21b06767a94d5ca59e25b41ba0b0d5f1eddf8608f9da2"
 
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
@@ -643,6 +655,10 @@ hash = "cf53c21bfcaf286da750ff5e344360c33ab058edeed11cb05d484978e5faebe9"
 [[files]]
 file = "config/status-effect-bars.json"
 hash = "9d6b9cee844e073d40de18fdfb268c267978a3cb0e64f1d1f17f79e6bf688a70"
+
+[[files]]
+file = "config/stylisheffects-client.toml"
+hash = "751da75d5dd33b4c959ac37eb5bac9cd2850e982046e5753563bdfabc65c1bae"
 
 [[files]]
 file = "config/tips.json"
@@ -690,7 +706,7 @@ hash = "761981dbd09190db0abb6d290bd384d4fbcd49dd438197bb3cf2fca9a3eff277"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
-hash = "8ec85ecdff2a7b60389a80cbffa420876fcf83b3a72120e3564076da50dc3fca"
+hash = "3c888b22cba252e8f0a974f8c1604bc05109affbf4354ad3b16e71778c4b9774"
 
 [[files]]
 file = "config/xaeropatreon.txt"
