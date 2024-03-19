@@ -1119,6 +1119,11 @@ hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
 metafile = true
 
 [[files]]
+file = "mods/satin-api.pw.toml"
+hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
+metafile = true
+
+[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "798736c2992b4c47d0fe3bd146ff105a2a707d75e9dc0f87ca13e157ac1df32e"
 metafile = true
