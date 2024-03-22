@@ -9,7 +9,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Archers (RPG Series)](https://modrinth.com/mod/archers) | ZsoltMolnarrr | 🏹 Draw, Release, Conquer - Master the art of Archery! |
 | [Architectury API](https://modrinth.com/mod/architectury-api) | MaxNeedsSnacks | An intermediary api aimed to ease developing multiplatform mods. |
 | [AttributeFix](https://modrinth.com/mod/attributefix) | Darkhax | Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods! |
-| [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) | AzureDoom | A striped down Azurelib just for Armor! |
+| [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) | DerToaster98 | A striped down Azurelib just for Armor! |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
 | [Bartering Station](https://modrinth.com/mod/bartering-station) | LunaPixelStudios | Still running around bartering manually? Let's put those lazy piglins to work instead! |
 | [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) | LunaPixelStudios | Changing the in-game models to allow for better animations and subtle effects. |
@@ -31,7 +31,6 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [CraterLib](https://modrinth.com/mod/craterlib) | hypherionsa | Library mod for HypherionSA and First Dark Development mods |
 | [Crawl](https://modrinth.com/mod/crawl) | fewizz | Allows you to crawl |
 | [Create Fabric](https://modrinth.com/mod/create-fabric) | alphamode | Building Tools and Aesthetic Technology |
-| [Create Goggles](https://modrinth.com/mod/create-goggles) | Robocraft999 | Adds Goggle Helmets and Armored Backtanks for Create Mod |
 | [Create: Structures](https://modrinth.com/mod/create-structures) | FusionSwarly | Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items. |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | Cull leaves while looking hot! |
 | [Dawn API](https://modrinth.com/mod/dawn) | Hugman | API that facilitates the creation of features. |
@@ -62,7 +61,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) | Fuzs | NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture. |
 | [Frostiful](https://modrinth.com/mod/frostiful) | TheDeathlyCow | A Vanilla+ Freezing Temperature Mod - sister mod of Scorchful! |
 | [Geckolib](https://modrinth.com/mod/geckolib) | DerToaster98 | A 3D animation library for entities, blocks, items, armor, and more! |
-| [Highlight](https://modrinth.com/mod/highlight) | epic_oreo | Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models. |
+| [Highlight](https://modrinth.com/mod/highlight) | ThatGravyBoat | Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models. |
 | [Iceberg](https://modrinth.com/mod/iceberg) | Grend | A modding library that contains new events, helpers, and utilities to make modder's lives easier. |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | Speed up immediate mode rendering in Minecraft |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
@@ -83,7 +82,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | MehVahdJukaar | dynamic data pack and registration, villager activities, custom map marker and a lot more |
 | [More Mob Variants](https://modrinth.com/mod/more-mob-variants) | nyuppo | Adds new variants to existing mobs. |
 | [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie) | Siphalor | A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more! |
-| [Nether Chested](https://modrinth.com/mod/new-nether-chest) | Fuzs | Use the Nether's power to store 8 times more items than usual in this chest. |
+| [Nether Chested](https://modrinth.com/mod/new-nether-chest) | LunaPixelStudios | Use the Nether's power to store 8 times more items than usual in this chest. |
 | [Night Lights](https://modrinth.com/mod/nightlights) | Joo5h | A mod that adds a variety of new light sources to Minecraft! |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | natanfudge | When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant. |
 | [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) | Nyfaria | Modifes spiders to be more realistic |
@@ -98,7 +97,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Promenade](https://modrinth.com/mod/promenade) | Hugman | Fancy and simplistic biomes and structures! |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | Why's it called Puzzles you ask? That's the puzzle! |
 | [pv-addon-sculk](https://modrinth.com/mod/pv-addon-sculk) | Apehum | With this add-on warder and skulk sensors are triggered by proximity voice chat. |
-| [pv-addon-soundphysics](https://modrinth.com/mod/pv-addon-soundphysics) | kpids | Compatability add-on for Plasmo Voice and Sound Physics Remastered mod.<br><br>With this add-on Plasmo Voice will be affected by Sound Physics. |
+| [pv-addon-soundphysics](https://modrinth.com/mod/pv-addon-soundphysics) | Apehum | Compatability add-on for Plasmo Voice and Sound Physics Remastered mod.<br><br>With this add-on Plasmo Voice will be affected by Sound Physics. |
 | [Raised](https://modrinth.com/mod/raised) | yurisuika | Raises the hotbar so the selector is not cut off! |
 | [Recipe Book Delight](https://modrinth.com/mod/recipe-book-delight) | melontini | Adds a recipe book to the cooking pot from Farmer's Delight [Fabric]. |
 | [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | shedaniel | Clean and Customizable. Alternative to Just Enough Items/JEI. |
