@@ -37,7 +37,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Dawn API](https://modrinth.com/mod/dawn) | Hugman | API that facilitates the creation of features. |
 | [Debugify](https://modrinth.com/mod/debugify) | isxander | Fixes Minecraft bugs found on the bug tracker |
 | [Default Options](https://modrinth.com/mod/default-options) | BlayTheNinth | A way for modpacks to ship a default (key) configuration without having to include an options.txt file. Also allows local options from any mod .cfg file. |
-| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | TomTheFurry | See farther without turning your game into a slide show |
+| [Distant Horizons](https://modrinth.com/mod/distanthorizons) | Ran | See farther without turning your game into a slide show |
 | [Double Doors](https://modrinth.com/mod/double-doors) | Serilum | 🚪 Multiple identical double doors, trapdoors and fence gates can be opened simultaneously. |
 | [Duckling](https://modrinth.com/mod/duckling) | ThatGravyBoat | Liven your world with ducks! |
 | [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) | Crendgrim | A mod that hides or changes the crosshair dependent on context |
@@ -66,6 +66,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Iceberg](https://modrinth.com/mod/iceberg) | Grend | A modding library that contains new events, helpers, and utilities to make modder's lives easier. |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | Speed up immediate mode rendering in Minecraft |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
+| [Infusion Table](https://modrinth.com/mod/infusion-table) | jptrzy | Infusion Table give player possibility to rip enchantment from item into book. |
 | [Iris Shaders](https://modrinth.com/mod/iris) | IMS | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
 | [Jewelry (RPG Series)](https://modrinth.com/mod/jewelry) | ZsoltMolnarrr | 💍 Find precious gems deep down, and craft them into powerful jewelry! |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | LambdAurora | A dynamic lights mod for Fabric. |
