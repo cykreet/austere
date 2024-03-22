@@ -1,12 +1,12 @@
 name = "Austere"
 author = "cykreet"
-version = "1.1.0"
+version = "1.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "16a71726604ef4803e53a73d6d76f7702454eaefbe65e0b41c7b1f89372dbaa6"
+hash = "893b65ee48f4a38c168ab4c9abe1f99ff53d53cdfaf1b38c1d6002b513c1d143"
 
 [versions]
 fabric = "0.15.7"

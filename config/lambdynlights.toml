@@ -84,6 +84,7 @@ mode = "fancy"
 				painting = true
 				wolf = true
 				pufferfish = true
+				polar_bear = true
 
 			[light_sources.settings.entities.promenade]
 				duck = true
@@ -106,6 +107,7 @@ mode = "fancy"
 			[light_sources.settings.entities.endermanoverhaul]
 				cave_enderman = true
 				coral_enderman = true
+				snowy_enderman = true
 
 			[light_sources.settings.entities.pickyourpoison]
 				poison_dart_frog = true
