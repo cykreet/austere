@@ -1,0 +1,13 @@
+name = "YDM's MobHealthBar"
+filename = "mobhealthbar-fabric-1.20.x-2.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wtk2r10e/versions/x38ZMwb1/mobhealthbar-fabric-1.20.x-2.3.0.jar"
+hash-format = "sha1"
+hash = "07b7f6a929c42a815d5fd32cd62b628b6f0df296"
+
+[update]
+[update.modrinth]
+mod-id = "wtk2r10e"
+version = "x38ZMwb1"
