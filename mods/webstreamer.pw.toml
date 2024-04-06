@@ -1,0 +1,8 @@
+name = "Web Streamer"
+filename = "webstreamer-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://github.com/ajh123/fabric-webstreamer/releases/download/1.4.0/webstreamer-1.4.0.jar"
+hash-format = "md5"
+hash = "aa5c708701eb9ec934579d451445f13c"

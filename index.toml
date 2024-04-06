@@ -857,7 +857,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "faed1a8ed88b10decde5497566ccf4e18c425945fcfbc6078ffa8dc8f5600079"
+hash = "0ba524b7123e6376687b0420f9dfc4794dea3f3bf64bda2a1b16a912b4dc7a1b"
 metafile = true
 
 [[files]]
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "13baf86c7202df729de43ea5ac8766581c39e35651391d080a9a2a33252c2996"
+hash = "d6f3249ad3a27395ebeaa97bd4601587169f0ffa50ddefabc0538358eee8b555"
 metafile = true
 
 [[files]]
@@ -1116,13 +1116,18 @@ hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "129bb8b135edc60038f021b693f5b88a0067b722f326e0d6067112243774289b"
 metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "f004880a6af6f2d5f305aafec9172ead3681dac0c7cd808a5a733d6e07c909f4"
+hash = "e35d11bb83896a136db22fcbc6efcb3376624333dafc857d062773f27bf349c7"
 metafile = true
 
 [[files]]
@@ -1142,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -1163,6 +1168,11 @@ metafile = true
 [[files]]
 file = "mods/jewelry.pw.toml"
 hash = "83deffcfa6ff9b091047a7c4db75fb3b98ae1fcbe6e4b9fb16f083d960012f44"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -1201,6 +1211,11 @@ hash = "fcc438b7ed6f280be9cc7191a4b41c2066cd692e8bb63b3e3890f4623a040d11"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -1212,7 +1227,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "961a62a68dcb0da829ecc14d0cdb6040388ac05ddd1a29df0a4c9c3c9b96b0a7"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -1337,7 +1352,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -1352,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/scorchful.pw.toml"
-hash = "65003a3f79c4cc6fb2c28a1ef9e1a30aca2f36a56bedc68fe0eec6c6c0296731"
+hash = "28188596cca4e644f1e48e24d87f93d904554ae856a52cfa47ad2994b818f868"
 metafile = true
 
 [[files]]
@@ -1392,7 +1407,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "3aa7821abddca3c5facb1e9bb57883ffd6be56f24aa27f61ac61ad111b9c870a"
+hash = "333e71ff460100726d0074d98f157d6641d95e4fbb1ea50b862d3dfa0dcf0fa6"
 metafile = true
 
 [[files]]
@@ -1427,7 +1442,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermoo.pw.toml"
-hash = "252d5e8b38e6c3e9aaa551ad726e6fd4aee140966fc5bcccf6d0c82783807aea"
+hash = "10ec8a67feac0ccaafa98e231f7c34c5ef1591b25423c01e6f2e89571af37b59"
 metafile = true
 
 [[files]]
@@ -1471,13 +1486,18 @@ hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
+file = "mods/webstreamer.pw.toml"
+hash = "4ada10689ce3a246427787e013f9970d2fa6fd7cb82f55e81f4794d08245d582"
+metafile = true
+
+[[files]]
 file = "mods/wizards.pw.toml"
-hash = "863b5cd7f792a496cc69164e30d2e5d81f3276b24a9173674de5d0fa8980156f"
+hash = "8d142e1319e2fef1dfe2cce0069befc9278e32ccb2a22c208fbe00efa99a232f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "e1d62a3cb9200b6bffd7f86431ef69ce459ab2c0866aa1255bb1ac60e06aae17"
+hash = "97fa9fb8210d11b8d9a08098b186f3882eb1f47dc5e20e3b5bac4952dddb2d50"
 metafile = true
 
 [[files]]
@@ -1555,7 +1575,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
-hash = "07aa8f8dc4105babfcb61c2bc78767fa49211f2a2dc64b07154e85e4e886463d"
+hash = "4785b2d076084589fffc60eeff0a4b0eef5ca0df82c22c12b33f49f7b3f6405c"
 metafile = true
 
 [[files]]
