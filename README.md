@@ -9,18 +9,20 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Archers (RPG Series)](https://modrinth.com/mod/archers) | ZsoltMolnarrr | 🏹 Draw, Release, Conquer - Master the art of Archery! |
 | [Architectury API](https://modrinth.com/mod/architectury-api) | MaxNeedsSnacks | An intermediary api aimed to ease developing multiplatform mods. |
 | [AttributeFix](https://modrinth.com/mod/attributefix) | Darkhax | Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods! |
-| [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) | AzureDoom | A striped down Azurelib just for Armor! |
+| [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) | DerToaster98 | A striped down Azurelib just for Armor! |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | Abstraction Layer (but not really)™ for Blay's multiplatform mods |
-| [Bartering Station](https://modrinth.com/mod/bartering-station) | LunaPixelStudios | Still running around bartering manually? Let's put those lazy piglins to work instead! |
+| [Bartering Station](https://modrinth.com/mod/bartering-station) | Fuzs | Still running around bartering manually? Let's put those lazy piglins to work instead! |
 | [Better Animations Collection](https://modrinth.com/mod/better-animations-collection) | LunaPixelStudios | Changing the in-game models to allow for better animations and subtle effects. |
 | [Better Combat](https://modrinth.com/mod/better-combat) | ZsoltMolnarrr | ⚔️ Easy, spectacular and fun melee combat system from Minecraft Dungeons. |
 | [Better Ping Display [Fabric]](https://modrinth.com/mod/better-ping-display-fabric) | vladmarica | Adds a configurable numerical ping display to the player list |
 | [Better Third Person](https://modrinth.com/mod/better-third-person) | socolio | Improves third person camera view. |
 | [Bookshelf](https://modrinth.com/mod/bookshelf-lib) | Darkhax | An open source library for other mods! |
+| [Camps. Castles. Carriages.](https://modrinth.com/mod/camps_castles_carriages) | Eugene | Add more medieval-fairy-tale style structures to your vanilla world! |
 | [Carry On](https://modrinth.com/mod/carry-on) | Tschipp | Carry On allows you to pick up Tile Entities and Mobs and carry them around! |
 | [Chat Heads](https://modrinth.com/mod/chat-heads) | Fourmisain | See who you're chatting with! |
 | [Chat Animation](https://modrinth.com/mod/chatanimation) | Ezzenix | Makes chat messages appear with a smooth animation. |
 | [Chunky](https://modrinth.com/mod/chunky) | pop4959 | Pre-generates chunks, quickly and efficiently |
+| [Clean Tooltips](https://modrinth.com/mod/clean-tooltips) | CesarZorak | A small mod improving Tooltips by creating a clean and consistent look! |
 | [ClearDespawn](https://modrinth.com/mod/cleardespawn) | Giselbaer | Make items blink when they're about to despawn |
 | [Cloth Config API](https://modrinth.com/mod/cloth-config) | shedaniel | Configuration Library for Minecraft Mods |
 | [Collective](https://modrinth.com/mod/collective) | Serilum | 🎓 Collective is a shared library with common code for all of Serilum's mods. |
@@ -31,7 +33,6 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [CraterLib](https://modrinth.com/mod/craterlib) | hypherionsa | Library mod for HypherionSA and First Dark Development mods |
 | [Crawl](https://modrinth.com/mod/crawl) | fewizz | Allows you to crawl |
 | [Create Fabric](https://modrinth.com/mod/create-fabric) | alphamode | Building Tools and Aesthetic Technology |
-| [Create Goggles](https://modrinth.com/mod/create-goggles) | Robocraft999 | Adds Goggle Helmets and Armored Backtanks for Create Mod |
 | [Create: Structures](https://modrinth.com/mod/create-structures) | FusionSwarly | Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items. |
 | [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves) | isxander | Cull leaves while looking hot! |
 | [Dawn API](https://modrinth.com/mod/dawn) | Hugman | API that facilitates the creation of features. |
@@ -42,10 +43,10 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Duckling](https://modrinth.com/mod/duckling) | ThatGravyBoat | Liven your world with ducks! |
 | [Dynamic Crosshair](https://modrinth.com/mod/dynamiccrosshair) | Crendgrim | A mod that hides or changes the crosshair dependent on context |
 | [Eating Animation](https://modrinth.com/mod/eating-animation) | PinkGoosik | A mod that adds sprite animations for edible and drinkable items. |
-| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | FoundationGames | Reduce FPS lag with block entities, as well as customize them with resource packs |
+| [Enhanced Block Entities](https://modrinth.com/mod/ebe) | FoundationGames | Reduce block entity FPS lag with almost no compromises, and improve their visuals |
 | [Emotecraft](https://modrinth.com/mod/emotecraft) | KosmX | Create your own emotes in Minecraft. |
 | [Enchantment Descriptions](https://modrinth.com/mod/enchantment-descriptions) | Darkhax | Provides a way to get enchantment descriptions from enchanted books. |
-| [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) | AlexNijjar | Enderman Overhaul adds over 20 new enderman variants, each with their own sounds, models, and animations! |
+| [Enderman Overhaul](https://modrinth.com/mod/enderman-overhaul) | Joo5h | Enderman Overhaul adds over 20 new enderman variants, each with their own sounds, models, and animations! |
 | [End Remastered](https://modrinth.com/mod/endrem) | maxmitchelson | Make your journey to the End more Challenging and Engaging with End Remastered! |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features) | Traben | EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge. |
 | [Entity Culling](https://modrinth.com/mod/entityculling) | vicisacat | Using async path-tracing to hide Block-/Entities that are not visible |
@@ -58,24 +59,29 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Fabric Seasons: Extras](https://modrinth.com/mod/fabric-seasons-extras) | D4rkness_King | Custom blocks and items to make your Fabric Seasons experience better. |
 | [Fabric Seasons: Terralith Compat](https://modrinth.com/mod/fabric-seasons-terralith-compat) | D4rkness_King | Terralith compatibility for Fabric Seasons |
 | [Fabric Seasons](https://modrinth.com/mod/fabric-seasons) | D4rkness_King | A simple mod that adds seasons to the game, dynamically changing biomes as you play. |
-| [Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | Zifiv | Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. |
+| [[Deprecated] Farmer's Delight [Fabric]](https://modrinth.com/mod/farmers-delight-fabric) | Zifiv | Farmer's Delight is a mod that gently expands upon farming and cooking in Minecraft. |
+| [FerriteCore](https://modrinth.com/mod/ferrite-core) | malte0811 | Memory usage optimizations |
 | [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port) | Fuzs | NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture. |
 | [Frostiful](https://modrinth.com/mod/frostiful) | TheDeathlyCow | A Vanilla+ Freezing Temperature Mod - sister mod of Scorchful! |
 | [Geckolib](https://modrinth.com/mod/geckolib) | DerToaster98 | A 3D animation library for entities, blocks, items, armor, and more! |
 | [Highlight](https://modrinth.com/mod/highlight) | epic_oreo | Highlight changes the visualization of specific blocks in the game to have more aligned selections to their models. |
+| [I See What You Did There!](https://modrinth.com/mod/i-see-what-you-did-there) | Khajiitos | Makes mobs react to indirect damage sources, like fire or lava. |
 | [Iceberg](https://modrinth.com/mod/iceberg) | Grend | A modding library that contains new events, helpers, and utilities to make modder's lives easier. |
 | [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) | RaphiMC | Speed up immediate mode rendering in Minecraft |
 | [Indium](https://modrinth.com/mod/indium) | comp500 | Sodium addon providing support for the Fabric Rendering API, based on Indigo |
 | [Infusion Table](https://modrinth.com/mod/infusion-table) | jptrzy | Infusion Table give player possibility to rip enchantment from item into book. |
-| [Iris Shaders](https://modrinth.com/mod/iris) | IMS | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
+| [Iris Shaders](https://modrinth.com/mod/iris) | coderbot | A modern shaders mod for Minecraft intended to be compatible with existing OptiFine shader packs |
 | [Jewelry (RPG Series)](https://modrinth.com/mod/jewelry) | ZsoltMolnarrr | 💍 Find precious gems deep down, and craft them into powerful jewelry! |
+| [Krypton](https://modrinth.com/mod/krypton) | astei | A mod to optimize the Minecraft networking stack |
 | [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights) | LambdAurora | A dynamic lights mod for Fabric. |
 | [LazyDFU](https://modrinth.com/mod/lazydfu) | astei | Makes the game boot faster by deferring non-essential initialization |
 | [Legendary Tooltips](https://modrinth.com/mod/legendary-tooltips) | Grend | Give your rare items a fancier tooltip! Also adds additional tooltip configuration options. |
 | [Lithium](https://modrinth.com/mod/lithium) | 2No2Name | No-compromises game logic/server optimization mod |
 | [Lookin' sharp](https://modrinth.com/mod/lookin-sharp) | CodexAdrian | A combat mod which expands the vanilla melee weapon options! |
 | [LuckPerms](https://modrinth.com/mod/luckperms) | lucko | A permissions plugin (mod) for Minecraft servers. |
+| [Lucky Cat](https://modrinth.com/mod/lucky_cat) | Eugene | Give you a lucky buff for better fishing loot |
 | [Luna Slimes](https://modrinth.com/mod/luna-slimes) | Lunade_ | Improves Slimes and makes them configurable. |
+| [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix) | contaria | A mod that fixes random memory leaks for both the client and server |
 | [MixinTrace](https://modrinth.com/mod/mixintrace) | comp500 | Adds a list of mixins in the stack trace to crash reports  |
 | [Model Gap Fix](https://modrinth.com/mod/modelfix) | MehVahdJukaar | Fixes gaps in Block Models and Item Models |
 | [ModernFix](https://modrinth.com/mod/modernfix) | embeddedt | All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods! |
@@ -83,7 +89,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Moonlight Lib](https://modrinth.com/mod/moonlight) | MehVahdJukaar | dynamic data pack and registration, villager activities, custom map marker and a lot more |
 | [More Mob Variants](https://modrinth.com/mod/more-mob-variants) | nyuppo | Adds new variants to existing mobs. |
 | [Mouse Wheelie](https://modrinth.com/mod/mouse-wheelie) | Siphalor | A "small" clientside mod featuring item scrolling, inventory sorting, item refilling and more! |
-| [Nether Chested](https://modrinth.com/mod/new-nether-chest) | Fuzs | Use the Nether's power to store 8 times more items than usual in this chest. |
+| [Nether Chested](https://modrinth.com/mod/new-nether-chest) | LunaPixelStudios | Use the Nether's power to store 8 times more items than usual in this chest. |
 | [Night Lights](https://modrinth.com/mod/nightlights) | Joo5h | A mod that adds a variety of new light sources to Minecraft! |
 | [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes) | natanfudge | When crashing, you can go back to the title screen and keep playing, without needing to restart, alongside other things to make crashes more pleasant. |
 | [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders) | Nyfaria | Modifes spiders to be more realistic |
@@ -98,7 +104,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Promenade](https://modrinth.com/mod/promenade) | Hugman | Fancy and simplistic biomes and structures! |
 | [Puzzles Lib](https://modrinth.com/mod/puzzles-lib) | Fuzs | Why's it called Puzzles you ask? That's the puzzle! |
 | [pv-addon-sculk](https://modrinth.com/mod/pv-addon-sculk) | Apehum | With this add-on warder and skulk sensors are triggered by proximity voice chat. |
-| [pv-addon-soundphysics](https://modrinth.com/mod/pv-addon-soundphysics) | kpids | Compatability add-on for Plasmo Voice and Sound Physics Remastered mod.<br><br>With this add-on Plasmo Voice will be affected by Sound Physics. |
+| [pv-addon-soundphysics](https://modrinth.com/mod/pv-addon-soundphysics) | Apehum | Compatability add-on for Plasmo Voice and Sound Physics Remastered mod.<br><br>With this add-on Plasmo Voice will be affected by Sound Physics. |
 | [Raised](https://modrinth.com/mod/raised) | yurisuika | Raises the hotbar so the selector is not cut off! |
 | [Recipe Book Delight](https://modrinth.com/mod/recipe-book-delight) | melontini | Adds a recipe book to the cooking pot from Farmer's Delight [Fabric]. |
 | [Roughly Enough Items (REI)](https://modrinth.com/mod/rei) | shedaniel | Clean and Customizable. Alternative to Just Enough Items/JEI. |
@@ -106,10 +112,11 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Resourceful Lib](https://modrinth.com/mod/resourceful-lib) | ThatGravyBoat | Resourceful Lib |
 | [Runes](https://modrinth.com/mod/runes) | ZsoltMolnarrr | 🪨 Craft runes to serve as ammo for spells |
 | [Satin API](https://modrinth.com/mod/satin-api) | Pyrofab | A Fabric library to help modders with shader usage |
-| [Scorchful](https://modrinth.com/mod/scorchful) | TheDeathlyCow | Dune-inspired, Vanilla+ mod focused on Heat-based survival and combat - sister mod of Frostiful! |
+| [Scorchful](https://modrinth.com/mod/scorchful) | TheDeathlyCow | Dune-inspired, Vanilla+ mod focused on Heat-based temperature survival and combat - sister mod of Frostiful! |
 | [Simple Discord Link](https://modrinth.com/mod/sdlink) | hypherionsa | A simple Minecraft -> Discord Chat Link bot with Whitelisting |
 | [Server Sleep](https://modrinth.com/mod/serversleep) | aninuscsalas | The simplest multiplayer sleep mod/datapack. - Changes playersSleepingPercentage to 50% |
 | [Smarter Farmers (farmers replant)](https://modrinth.com/mod/smarter-farmers-farmers-replant) | MehVahdJukaar | Allows villagers to replant the correct seed & allows them to use modded ones |
+| [Smooth Gui](https://modrinth.com/mod/smooth-gui) | Ezzenix | Smooth animation when opening GUI for Minecraft.<br>GUI fades up when opened. |
 | [Snowy Sniffer](https://modrinth.com/mod/snow-sniffer) | SwiftSniffer | Ever wanted to see these revived giants blending in your cold settlement?<br><br>Now, Sniffer will be covered in snow during Snowstorm, and much more! |
 | [Sodium](https://modrinth.com/mod/sodium) | IMS | A modern rendering engine for Minecraft which greatly improves performance |
 | [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) | henkelmax | A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks. |
@@ -120,8 +127,8 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [Structure Pool API](https://modrinth.com/mod/structure-pool-api) | ZsoltMolnarrr | 📚 API to inject structures into structure pools. |
 | [Styled Chat](https://modrinth.com/mod/styled-chat) | Patbox | Style your server's chat as you want! |
 | [Stylish Effects](https://modrinth.com/mod/stylish-effects) | LunaPixelStudios | Status effect display overhaul: Display them in any menu! And way more compact. |
-| [Terralith](https://modrinth.com/mod/terralith) | null | Terralith takes Minecraft's 1.18 massive world generation overhaul, and turns it up to eleven. |
-| [Thermoo](https://modrinth.com/mod/thermoo) | TheDeathlyCow | A temperature library mod for Fabric |
+| [Terralith](https://modrinth.com/mod/terralith) | null | Explore almost 100 new biomes consisting of both realism and light fantasy, using just Vanilla blocks. Complete with several immersive structures to compliment the overhauled terrain. |
+| [Thermoo](https://modrinth.com/mod/thermoo) | TheDeathlyCow | A temperature library mod for Fabric and Quilt. Used by Frostiful and Scorchful. |
 | [Tips](https://modrinth.com/mod/tips) | Darkhax | This mod adds tips to loading menus. It also allows for modpacks and mods to add their own tips! |
 | [ToolTipFix](https://www.curseforge.com/minecraft/mc-mods/tooltipfix) | Kyrptonaught | Fixes tooltips that are too long to be displayed |
 | [Trading Post](https://modrinth.com/mod/trading-post) | LunaPixelStudios | Rule the village! Trade with every villager at once! |
