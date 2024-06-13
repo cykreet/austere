@@ -1,0 +1,13 @@
+name = "Lucky Cat"
+filename = "lucky_cat-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jVFWaCwk/versions/1vxvdJRQ/lucky_cat-2.1.1.jar"
+hash-format = "sha1"
+hash = "1b84a9f23f06671abf962dbd84fb589c9defd6f1"
+
+[update]
+[update.modrinth]
+mod-id = "jVFWaCwk"
+version = "1vxvdJRQ"
