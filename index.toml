@@ -258,15 +258,11 @@ hash = "a186d6ab6468353cb2a49f5a4229c16b004580a557d4bccaf12041e8a46f9d9e"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
-hash = "fe750f3b16a6dd6d1d2ac4000f64400ba31441a11b8e11fac74bdce8fc406188"
+hash = "e65756f372250f04b8a4b4cf0177415350e87faa8becb8cea8c6d2ea8dc19776"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "34a5b8b1ddcbe2e0684c3589e685d88ec8c4f316e425b4606edca6ffceda6705"
-
-[[files]]
-file = "config/defaultoptions/servers.dat"
-hash = "6ba1061d9651193b690d6f1fded543f2d8d5e7c0f12babda273c32dc50c2cfa9"
+hash = "e58fa3b94800154267dc903c23f3cee9fe3619279a298394bc64222f40966e97"
 
 [[files]]
 file = "config/durabilityviewer.json"
@@ -466,7 +462,7 @@ hash = "752775debf65550a6a11ae2cc27c6f5c649cb8ac833a496e5c222d484bc63c14"
 
 [[files]]
 file = "config/physicsmod/physics_server_config.json"
-hash = "1afde48eff108eb21adb246de5d44ef6ced16862cca62cf0123c059a9934c7cc"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
 
 [[files]]
 file = "config/physicsmod/physics_vines_client_config.json"
@@ -682,7 +678,7 @@ hash = "c830f575df0ad9d8f314ac2d63d867eb24e306fdf4d8d43496803e32678d2917"
 
 [[files]]
 file = "config/scorchful.json"
-hash = "0fabb05b556acf8bac9bf8b15cae6ed783621977d7aa4443d9d5b94bfb1c35e1"
+hash = "c401a5839bb63e91cf6b371ac3012bd8d993946d89f4d14d2376cc2e1540541c"
 
 [[files]]
 file = "config/seasons.json"
@@ -906,6 +902,11 @@ hash = "9c44cf229440021ac7c42cd265fcec944fb002e2264c61688dfc21546bdaed5d"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "d11ddfc62cd4cd8a445b65d159be15b56c1e3fb4aaa65c9cb4bc13ab784c6211"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "a4fade36fea835439b9bd6f3c6d211cf149cb2d345ab2b90fdf5ee9fa90d4b03"
 metafile = true
@@ -987,7 +988,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+hash = "cc457369350325e226471c9b070f7ef3e47b6ea8126e8c7c28622b2960ea3f2b"
 metafile = true
 
 [[files]]
@@ -1087,7 +1088,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-delight.pw.toml"
-hash = "4d013214266c48b8853463e428949881aa97c06684284dcb508a1932ab7c3593"
+hash = "1f2376a043c6e75c831c65e1143c4306a0f4936eeec1eabe2dd3068919bf6470"
 metafile = true
 
 [[files]]
@@ -1407,7 +1408,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-gui.pw.toml"
-hash = "9f9c17df47abae853e3d8bd29820310f9e21e873edcdfb3aeab4fda3f4a00eef"
+hash = "59d1ad22f9b2b91b696fd5797885b7402a85964042215ab284165d867907a4e2"
 metafile = true
 
 [[files]]
@@ -1601,6 +1602,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/unique-dark.pw.toml"
 hash = "2c9853c423434e94fef2e3d1a27b47369fa2bd1ad02773609b120a816c963fa5"
+metafile = true
+
+[[files]]
+file = "shaderpacks/super-duper-vanilla.pw.toml"
+hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
 metafile = true
 
 [[files]]

@@ -106,6 +106,6 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown:NONE
 key_gui.xaero_map_zoom_out:key.keyboard.unknown:NONE
 key_gui.xaero_quick_confirm:key.keyboard.right.shift:NONE
 key_gui.xaero_toggle_dimension:key.keyboard.unknown:NONE
-key_iris.keybind.reload:key.keyboard.r:NONE
+key_iris.keybind.reload:key.keyboard.j
 key_iris.keybind.toggleShaders:key.keyboard.k:NONE
 key_iris.keybind.shaderPackSelection:key.keyboard.o:NONE
