@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://github.com/cykreet/SmoothGui/releases/download/1.20.1/smoothgui-0.1.0+1.20.1.jar"
 hash-format = "md5"
-hash = "bcb17b3b4892b6994c1b79046d479639"
+hash = "8a710955bfd11b409d5323c23e03894d"

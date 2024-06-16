@@ -1408,7 +1408,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-gui.pw.toml"
-hash = "59d1ad22f9b2b91b696fd5797885b7402a85964042215ab284165d867907a4e2"
+hash = "f3c3918cf4044579f864df5ef7b099458f0597c144d54dd3a8e3336274ac4b27"
 metafile = true
 
 [[files]]
@@ -1608,11 +1608,3 @@ metafile = true
 file = "shaderpacks/super-duper-vanilla.pw.toml"
 hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
 metafile = true
-
-[[files]]
-file = "shaderpacks/superDuperVanilla.zip"
-hash = "e37a798602e8bc5d8202533bfbdd75f39a70b46b917748fe410a34c0b20b5e4c"
-
-[[files]]
-file = "shaderpacks/superDuperVanilla.zip.txt"
-hash = "48ea4c8d6376c45769cb2e661e8a5983f2dd776eb6ca9ead65c406db00765259"
