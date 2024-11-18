@@ -1,13 +1,13 @@
 name = "Austere"
 author = "cykreet"
-version = "1.4.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f9ace261c0c9fde4e8b068c3b6a7ddb7a1f4e79cbc02a08df6908e3b64dc4025"
+hash = "25cee78d278ea3c51af1b7369d629bc8f941056f1f838625adb4283e44727085"
 
 [versions]
-fabric = "0.15.11"
+fabric = "0.16.5"
 minecraft = "1.20.1"

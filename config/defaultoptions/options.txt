@@ -23,9 +23,9 @@ toggleSprint:false
 darkMojangStudiosBackground:false
 hideLightningFlashes:false
 mouseSensitivity:0.3873239436619718
-fov:0.375
+fov:0.85
 screenEffectScale:1.0
-fovEffectScale:1.0
+fovEffectScale:0.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
@@ -43,8 +43,8 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","file/FreshAnimations_v1.9.zip","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","file/Unique Dark 1.20.1 (free).zip","file/MoreMobVariants_FreshAnimations_1.3.0-1.9.zip"]
-incompatibleResourcePacks:["file/MoreMobVariants_FreshAnimations_1.2.2-1.8.1.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","file/Unique Dark 1.20.1 (free).zip","file/FreshAnimations_v1.9.2.zip","file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 soundDevice:""

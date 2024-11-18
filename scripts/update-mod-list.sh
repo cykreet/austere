@@ -4,6 +4,7 @@ TITLE="${README_TITLE:-Austere}"
 DESCRIPTION="${README_DESCRIPTION:-Fabric modpack with a little spice. Currently enjoying the following mods:}"
 
 mods_path="$(pwd)/mods"
+version=$(cat $(pwd)/pack.toml | grep -oP 'version\s*=\s*"\K[^"]+')
 
 if [[ -z $CURSEFORGE_SECRET ]]; then
   echo "CURSEFORGE_SECRET is not set."
@@ -11,7 +12,7 @@ if [[ -z $CURSEFORGE_SECRET ]]; then
 fi
 
 > $(pwd)/README.md
->> $(pwd)/README.md echo "# ${TITLE}"
+>> $(pwd)/README.md echo "# ${TITLE} v${version}"
 >> $(pwd)/README.md echo -e "${DESCRIPTION}\n"
 
 >> $(pwd)/README.md echo "| Mod Name | Author | Description |"

@@ -1,0 +1,13 @@
+name = "Ender Eyes"
+filename = "ender-eyes-1.20-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9aGR8Bzl/versions/2OKJmPIC/ender-eyes-1.20-1.20.1-1.2.0.jar"
+hash-format = "sha1"
+hash = "f0ef7cab362d51bfda40adafb719465f20e6185e"
+
+[update]
+[update.modrinth]
+mod-id = "9aGR8Bzl"
+version = "2OKJmPIC"
