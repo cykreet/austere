@@ -22,9 +22,12 @@ type = "MOUSE"
 
 
 [addons.pv-addon-soundphysics]
+mic_reverb = true
 "gui.plasmovoice.soundphysics.mic_reverb_volume" = 1.0
+mic_reverb_volume = 1.0
 "gui.plasmovoice.soundphysics.enabled" = true
 "gui.plasmovoice.soundphysics.mic_reverb" = true
+enabled = true
 
 [voice]
 disabled = false
@@ -57,10 +60,12 @@ panning = true
 camera_sound_listener = true
 exponential_volume_slider = true
 exponential_distance_gain = true
+jitter_packet_delay = 3
+al_playback_buffers = 5
 
 [overlay]
 show_activation_icon = true
-activation_icon_position = "BOTTOM_CENTER"
+activation_icon_position = "BOTTOM_LEFT"
 show_source_icons = 0
 show_static_source_icons = true
 overlay_enabled = true

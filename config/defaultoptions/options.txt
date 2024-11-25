@@ -29,7 +29,7 @@ fovEffectScale:0.0
 darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
-damageTiltStrength:1.0
+damageTiltStrength:0.97
 highContrast:false
 gamma:0.8200000000000001
 renderDistance:12

@@ -3,7 +3,7 @@
 server_id = "4258c727-2ffe-4a48-83f6-0ac4dd9e9199"
 default_language = "en_us"
 debug = false
-disable_crowdin = false
+use_crowdin_translations = true
 check_for_updates = true
 
 [host]
@@ -21,6 +21,9 @@ keep_alive_timeout_ms = 15000
 mtu_size = 1024
 client_mod_required = false
 client_mod_required_check_timeout_ms = 3000
+# Minimum required version for a client with the mod to connect to the voice server.
+# This will not kick the player but will simply not connect them to the voice server and will suggest downloading the required version.
+client_mod_min_version = "2.0.0"
 
 [voice.proximity]
 distances = [8, 16, 32]

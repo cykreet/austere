@@ -1,5 +1,5 @@
 {
-  "maxPhysicsObjects": 2826,
+  "maxPhysicsObjects": 1981,
   "particleLifetimeVines": 4.0,
   "particleLifetimeItems": 3.0,
   "particleLifetimeParticles": 0.1,
@@ -140,6 +140,10 @@
     "minecraft:the_end",
     0.0,
     -9.81,
+    0.0,
+    "deeperdarker:otherside",
+    0.0,
+    -9.81,
     0.0
   ],
   "customizedBuoyancies": [
@@ -152,6 +156,10 @@
     2.0,
     0.0,
     "minecraft:the_end",
+    0.0,
+    2.0,
+    0.0,
+    "deeperdarker:otherside",
     0.0,
     2.0,
     0.0

@@ -46,6 +46,7 @@
     "frostologerMaxPassiveFreezing": 0.5,
     "biterFrostBiteMaxAmplifier": 2,
     "chillagerFireDamageMultiplier": 1.5,
+    "frostologerIntolerableHeat": 9,
     "furUpgradeTemplateGenerateChance": 0.5,
     "skateUpgradeTemplateGenerateChance": 0.33
   },
@@ -56,6 +57,7 @@
     "spawnWindInAir": true,
     "windDestroysTorches": true,
     "doSnowPacking": true,
+    "passiveFreezingTickInterval": 1,
     "windSpawnCapPerSecond": 15,
     "windSpawnRarity": 750,
     "windSpawnRarityThunder": 500,

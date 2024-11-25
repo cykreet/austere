@@ -1,0 +1,8 @@
+name = "Firework Frenzy"
+filename = "firework-frenzy-1.14+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/cykreet/FireworkFix/releases/download/1.20.1/firework-frenzy-1.14+1.20.1.jar"
+hash-format = "md5"
+hash = "0073fd92a646b184e410d13208a662e0"

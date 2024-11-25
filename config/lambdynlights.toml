@@ -85,6 +85,7 @@ mode = "fancy"
 				wolf = true
 				pufferfish = true
 				polar_bear = true
+				zombie_horse = true
 
 			[light_sources.settings.entities.promenade]
 				duck = true
@@ -108,7 +109,26 @@ mode = "fancy"
 				cave_enderman = true
 				coral_enderman = true
 				snowy_enderman = true
+				savanna_enderman = true
 
 			[light_sources.settings.entities.pickyourpoison]
 				poison_dart_frog = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				dripstone_creeper = true
+				savannah_creeper = true
+
+			[light_sources.settings.entities.knightquest]
+				ghosty = true
+				lizzy = true
+				ratman = true
+				eldknight = true
+				eldbomb = true
+
+			[light_sources.settings.entities.frostiful]
+				frost_spell = true
+
+			[light_sources.settings.entities.impaled]
+				hellfork = true
 
