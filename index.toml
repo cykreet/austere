@@ -25,10 +25,6 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
-file = "config/airhop-server.toml"
-hash = "a9e9c9dab5c917e5a9c8519951769de4555c55cf41b362921c016ef8d1709a04"
-
-[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -887,10 +883,6 @@ hash = "88d657f8162309d18cd50a9d38b6e166b00e36c8ed9f69f5637067e0b1523427"
 [[files]]
 file = "config/wakes.json"
 hash = "a6b0cbc402761784b3fbd6739bf1022f684701a8ed17c4f88c46cb948f396625"
-
-[[files]]
-file = "config/warriorrage.json5"
-hash = "4c0de46cfab7d4ce7b1ca2df82978d6deaa725d54a1e72d9b6fe3f9500245bef"
 
 [[files]]
 file = "config/waterdripsound.json"
