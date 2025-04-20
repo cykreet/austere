@@ -1067,11 +1067,6 @@ hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
-file = "mods/combat-amenities.pw.toml"
-hash = "ea8d8b145d31b6d7f6cb60d820b54d84684e7a0f1c4c7d039981a894b62f6d63"
-metafile = true
-
-[[files]]
 file = "mods/combat-nouveau.pw.toml"
 hash = "f954622830360a9f542b1f9e21a4698e19436d7cd1380efab84d2c4aa5868b8c"
 metafile = true
