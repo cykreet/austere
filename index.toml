@@ -242,7 +242,7 @@ hash = "4f6edd23354acb68230bfb3022a4d3322114a5f5d9fbaf51c8577ebc9013a8fd"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "60625871d30489a4893eec738230d26fab28d17b1e6d6e09bff51367c9d7975e"
+hash = "223716425fc30cc84f3e626e7bfa6a507a0b660d3e965b00445369708eb865a6"
 
 [[files]]
 file = "config/dummmmmmy-client.json"
@@ -1198,7 +1198,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "724f38446c3830230388cec99fed286ff1e8580f0a82c1466c7d59bde4450c71"
+hash = "4eebbd915505891152179070e92c440f7ae3d3bf0ff6497936da38f77a621910"
 metafile = true
 
 [[files]]
@@ -1208,7 +1208,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "431846491318f66fdef523f169044383847e75d3e1ff36cccd2bf8cb10e85ae8"
+hash = "cf0d22c615de599912978e0352bde47a818d9ba306e34f832b578a86f2912433"
 metafile = true
 
 [[files]]
@@ -1473,7 +1473,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
-hash = "222ec4a75e6f0aad1680edc993b2b473d4289d3813f3263730f47f88dd14d615"
+hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
@@ -1863,7 +1863,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/more-mob-variants-fresh-animations-addon.pw.toml"
-hash = "1a8216aaa57ab8e69a4c876c6412276cab3f4468291afc6f9ca3f778574b5365"
+hash = "a36b5799b81638f43b8d35b9bbca6a9471e2e52b811739bff90601db31b8ebe0"
 metafile = true
 
 [[files]]
@@ -1872,8 +1872,8 @@ hash = "32fe0fe8941110f8fba07ce7768faa1797de6b28e961ab65b483c380fc0a365a"
 metafile = true
 
 [[files]]
-file = "resourcepacks/unique-dark.pw.toml"
-hash = "2472abbf76cbaf270f18af8805e372a9530825591a80b6fb4a6bb2c5a6068076"
+file = "resourcepacks/unique-dark-refined.pw.toml"
+hash = "b8851d4d6197a9468ed2c66d31b1a57a28dc175905165711159bff7efae0c488"
 metafile = true
 
 [[files]]

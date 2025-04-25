@@ -43,7 +43,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"fast"
-resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","file/Unique Dark 1.20.1 (free).zip","file/FreshAnimations_v1.9.2.zip","file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip"]
+resourcePacks:["vanilla","fabric","presencefootsteps:default_sound_pack","minecraft:supporteatinganimation","seasons:seasonal_lush_caves","Moonlight Mods Dynamic Assets","file/UniqueDarkRefined 1.20.1 (free).zip","-1.21.2 Fresh Moves v3.1 (With Animated Eyes).zip","file/FreshAnimations_v1.9.2.zip","file/MoreMobVariants_FreshAnimations_1.3.1-1.9.2.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

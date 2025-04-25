@@ -1,0 +1,13 @@
+name = "Unique Dark Refined"
+filename = "UniqueDarkRefined 1.20.1 (free).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9NXbHzs3/versions/w9BBuKIp/UniqueDarkRefined%201.20.1%20%28free%29.zip"
+hash-format = "sha512"
+hash = "e753883a8ea966fc04df853685bbbf737db28ef4f348e9d9e08571388ea50b5940a617db494f931dfe15453cfd302b01afdcfa7d2a246fd0636da13681f1a4a8"
+
+[update]
+[update.modrinth]
+mod-id = "9NXbHzs3"
+version = "w9BBuKIp"
