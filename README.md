@@ -1,4 +1,4 @@
-# Austere v2.0.0
+# Austere v2.1.0
 Fabric modpack with a little spice. Currently enjoying the following mods:
 
 | Mod Name | Author | Description |
@@ -9,7 +9,7 @@ Fabric modpack with a little spice. Currently enjoying the following mods:
 | [AppleSkin](https://modrinth.com/mod/appleskin) | squeek502 | Food/hunger-related HUD improvements |
 | [Aquamirae](https://modrinth.com/mod/aquamirae) | Obscuria | Ship graveyard with terrible deep sea creatures! |
 | [Architectury API](https://modrinth.com/mod/architectury-api) | MaxNeedsSnacks | An intermediary api aimed to ease developing multiplatform mods. |
-| [Arsenal](https://modrinth.com/mod/arsenal) | AmyMialee | A weapons mod focused on adding few but qualitative weapons |
+| [Arsenal](https://modrinth.com/mod/arsenal) | RAT | A weapons mod focused on adding few but qualitative weapons |
 | [AttributeFix](https://modrinth.com/mod/attributefix) | Darkhax | Removes arbitrary limits on Minecraft's attribute system. Fixes MANY mods! |
 | [AzureLib Armor](https://modrinth.com/mod/azurelib-armor) | DerToaster98 | A striped down Azurelib just for Armor! |
 | [Balm](https://modrinth.com/mod/balm) | BlayTheNinth | Abstraction Layer for Multiplatform Mods |
